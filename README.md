@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # Image Classifier
 
 > Upload any image and get an instant prediction of what's in it using a deep learning model.
